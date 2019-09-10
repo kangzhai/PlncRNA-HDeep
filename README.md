@@ -1,2 +1,2 @@
-# PlncRNAPred
-PlncRNAPred for plant lncRNA prediction
+# PlncRNA-HDeep
+PlncRNA-HDeep for plant lncRNA prediction
