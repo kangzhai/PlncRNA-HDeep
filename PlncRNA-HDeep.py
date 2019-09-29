@@ -153,7 +153,7 @@ word2index = {x[0]: i+2 for i, x in enumerate(word_freqs.most_common(64))}
 word2index["PAD"] = 0
 word2index["UNK"] = 1
 index2word = {v: k for k, v in word2index.items()}
-X = np.empty(num_recs,dtype=list)
+X = np.empty(num_recs, dtype=list)
 y = np.zeros(num_recs)
 i = 0
 with open(filepath, 'r+', encoding='gb18030', errors='ignore') as f:
