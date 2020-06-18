@@ -14,3 +14,7 @@ windows operating system
 python 3.6.5
 
 Keras 2.2.4
+
+# Datasets
+
+The datasets can be obtained by unzipping "Datasets.zip".
