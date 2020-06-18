@@ -41,3 +41,5 @@ Explanation: This is a script that repeats the experiment in the paper. This scr
 
 We will upload the trained models as soon as possible in the next version, and provide the codes and commands for users to directly predict lncRNA.
 
+# Reference
+Wait for updating
