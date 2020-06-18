@@ -16,5 +16,13 @@ python 3.6.5
 Keras 2.2.4
 
 # Datasets
-
 The datasets can be obtained by unzipping "Datasets.zip".
+
+"PositiveDataset.fasta" includes the names and sequences of 18000 lncRNAs.
+
+"NegativeDataset.fasta" includes the names and sequences of 18000 mRNAs.
+
+"TotalDataset.fasta" includes the informantion and labels of all positive and negative samples.
+
+# Data description
+
