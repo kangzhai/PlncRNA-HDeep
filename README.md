@@ -38,3 +38,5 @@ command: python PlncRNA-HDeep.py
 This python script can also be directly run using python IDE such as pyCharm.
 
 Explanation: This is a script that repeats the experiment in the paper. This script includes two encoding styles and three hybrid strategies descripted in the paper to provide references for other related research. The input of the method are the sequences and labels of the samples. The output are test results, including true positive (TP), false positive (FP), true negative (TN), false negative(FN), sensitivity (TPR), specificity (TNR), preision (PPV), negative predictive value (NPV), false negative rate (FNR), false positive rate (FPR), false discovery rate (FDR), false omission rate (FOR), accuracy (ACC), F1 score (F1), matthews correlation coefficient (MCC), bookmaker informedness (BM) and Markedness (MK).
+
+
