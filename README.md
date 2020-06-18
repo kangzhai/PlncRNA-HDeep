@@ -25,4 +25,7 @@ The datasets can be obtained by unzipping "Datasets.zip".
 "TotalDataset.fasta" includes the informantion and labels of all positive and negative samples.
 
 # Data description
+"Data description.xlsx" lists the information of the used databases in the paper.
 
+# Extracted Features
+"Extracted features.xlsx" lists the information of the extracted features for shallow machine learning training in the paper.
