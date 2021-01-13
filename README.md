@@ -1,5 +1,5 @@
 # PlncRNA-HDeep
-The related datasets and scoure codes of PlncRNA-HDeep privided by Q. Kang.
+The related datasets and scoure codes of PlncRNA-HDeep is privided by Q. Kang.
 
 The latest version is updated on June 18, 2020
 
