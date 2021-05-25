@@ -42,4 +42,6 @@ Explanation: This is a script that repeats the experiment in the paper. This scr
 We will upload the trained models as soon as possible in the next version, and provide the codes and commands for users to directly predict lncRNA.
 
 # Reference
-The paper has been accepted in BMC Bioinformatics. Please wait for more information updating.
+If you use the codes, please cite the reference as below.
+
+Jun Meng, Qiang Kang, Zheng Chang, Yushi Luan. PlncRNA-HDeep: plant long noncoding RNA prediction using hybrid deep learning based on two encoding styles. BMC Bioinformatics, 2021, 22: 242. https://doi.org/10.1186/s12859-020-03870-2
