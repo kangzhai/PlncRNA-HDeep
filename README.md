@@ -44,4 +44,4 @@ We will upload the trained models as soon as possible in the next version, and p
 # Reference
 If you use the codes, please cite the reference as below.
 
-Jun Meng, Qiang Kang, Zheng Chang, Yushi Luan. PlncRNA-HDeep: plant long noncoding RNA prediction using hybrid deep learning based on two encoding styles. BMC Bioinformatics, 2021, 22: 242. https://doi.org/10.1186/s12859-020-03870-2
+Jun Meng, Qiang Kang, Zheng Chang, Yushi Luan. PlncRNA-HDeep: plant long noncoding RNA prediction using hybrid deep learning based on two encoding styles. BMC Bioinformatics, 2021, 22:242. https://doi.org/10.1186/s12859-020-03870-2
